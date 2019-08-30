@@ -1,3 +1,5 @@
+//Could not understand what the code in C++ does?
+
 //registration number 121810314003
 #include<iostream>
 #include<fstream>
