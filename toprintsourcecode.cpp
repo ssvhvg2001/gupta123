@@ -9,7 +9,7 @@ main()
 	char c;
 	if(x1!=0)
 	cout<<"harsha\n";
-	ifstream x("toprintsourcecode_2.cpp");
+	ifstream x("toprintsourcecode_2.cpp");//we should save our file name as toprintsourcecode_2.cpp
 	string s;
 	while(getline(x,s))
 	{
